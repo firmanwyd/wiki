@@ -1,7 +1,7 @@
- Halaman ini merupakan halaman pindahan sejak rilis Rote. Index wiki Artwork yang lawas dapat ditemukan di [Artwork]().
+   Halaman ini merupakan halaman pindahan sejak rilis Rote. Index wiki Artwork yang lawas dapat ditemukan di [Artwork]().
 # Kesenian
 
-Merupakan suatu usaha untuk membangun tampilan visual dan audio untuk distro linux [BlankOn](http://dev.blankonlinux.or.id/wiki/BlankOn). Seperti tim [BlankOn](http://dev.blankonlinux.or.id/wiki/BlankOn) lain yang bernama khas, tim artwork diberi nama "Tim Kesenian".
+   Merupakan suatu usaha untuk membangun tampilan visual dan audio untuk distro linux [BlankOn](http://dev.blankonlinux.or.id/wiki/BlankOn). Seperti tim [BlankOn](http://dev.blankonlinux.or.id/wiki/BlankOn) lain yang bernama khas, tim artwork diberi      nama "Tim Kesenian".
 # Alur Kerja Tim Kesenian
 
 Alur kerja tim Kesenian untuk setiap versi rilis BlankOn secara garis besar adalah seperti berikut:
@@ -38,7 +38,7 @@ Alur kerja tim Kesenian untuk setiap versi rilis BlankOn secara garis besar adal
 
 # Referensi Tim Kesenian
 
-   * [http://fedoraproject.org/wiki/Artwork] 
+   * http://fedoraproject.org/wiki/Artwork
 
 # Cara Kerja Tim Kesenian
 
@@ -52,11 +52,11 @@ Alur kerja tim Kesenian untuk setiap versi rilis BlankOn secara garis besar adal
 
 # Perangkat Lunak
 
-Meskipun pilihan perangkat lunak yang digunakan bebas, disarankan untuk menggunakan perangkat lunak FOSS, seperti/terutama Inkscape, GIMP, XaraLX, dan lainnya. Tetapi wajib menggunakan format terbuka, misalnya, diperbolehkan menggunakan AI, asalkan berkasnya kompatibel SVG.
+Meskipun pilihan perangkat lunak yang digunakan bebas, disarankan untuk menggunakan perangkat lunak FOSS, seperti/terutama  Inkscape, GIMP, XaraLX, dan lainnya. Tetapi wajib menggunakan format terbuka, misalnya, diperbolehkan menggunakan AI, asalkan  berkasnya kompatibel SVG.
 # Halaman Kerja Tim Kesenian
 
 Karena Tim Kesenian termasuk dalam tim Rilis, maka halaman kerja wiki terletak di bawah wiki/nomorrilis/Kesenian.
 
-Untuk rilis ULUWATU XI, dapat dijelajahi di [sini]
+Untuk rilis ULUWATU XI, dapat dijelajahi di [sini]()
 
-[KategoriKesenian]
+[KategoriKesenian]()
