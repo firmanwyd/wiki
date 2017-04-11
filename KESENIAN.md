@@ -8,9 +8,9 @@ Alur kerja tim Kesenian untuk setiap versi rilis BlankOn secara garis besar adal
 
   * Jadwal rilis [BlankOn](http://dev.blankonlinux.or.id/wiki/BlankOn) versi terbaru keluar
   * Pembentukan tim kesenian (output: daftar anggota Tim dan Koordinator wiki)
-  * Spesifikasi, rancangan, panduan umum, cek yang berkaitan dengan kesenian (output: halaman progres MenujuNamarilis? )
-  * Parade rapat dan diskusi, pembagian tugas (output: halaman progres MenujuNamarilis? )
-  * Mockup looping, voting, ide dan saran (output: halaman progres MenujuNamarilis? )
+  * Spesifikasi, rancangan, panduan umum, cek yang berkaitan dengan kesenian (output: halaman progres MenujuNamarilis?)
+  * Parade rapat dan diskusi, pembagian tugas (output: halaman progres MenujuNamarilis?)
+  * Mockup looping, voting, ide dan saran (output: halaman progres MenujuNamarilis?)
   * Daftar desain final (output: paket/bahan mentah untuk tim pemaket) 
 
 # Tim Kesenian
