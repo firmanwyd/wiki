@@ -1,5 +1,5 @@
    Halaman ini merupakan halaman pindahan sejak rilis Rote. Index wiki Artwork yang lawas dapat ditemukan di [Artwork]().
-# Kesenian
+# Tim Kesenian
 
    Merupakan suatu usaha untuk membangun tampilan visual dan audio untuk distro linux [BlankOn](http://dev.blankonlinux.or.id/wiki/BlankOn). Seperti tim [BlankOn](http://dev.blankonlinux.or.id/wiki/BlankOn) lain yang bernama khas, tim artwork diberi      nama "Tim Kesenian".
 # Alur Kerja Tim Kesenian
